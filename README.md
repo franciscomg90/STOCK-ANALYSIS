@@ -20,7 +20,7 @@ Given the results of the analysis as you can see below, it shows a sector with h
 Refactoring by definition "is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior", I made this with the inicial code for the allstock analyisis to make a more efficient code using the calculation in arrays to improve time and memory 
 
 ![REFACTORED1](https://github.com/franciscomg90/Stock-analysis/blob/main/REFACTORED%201.PNG)
-°[REFACTORED2](https://github.com/franciscomg90/Stock-analysis/blob/main/REFACTORED%202.PNG)
+![REFACTORED2](https://github.com/franciscomg90/Stock-analysis/blob/main/REFACTORED%202.PNG)
 
 But if you check the hole perfomance of the QGREEN INDEX you can see that in total the the return/loss are lowers but also they have less volatility
  
