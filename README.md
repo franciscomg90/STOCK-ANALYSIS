@@ -13,4 +13,8 @@ In first instance I processed the information of a single stock (DQ) in order to
 
 ![DQ Analysis](https://github.com/franciscomg90/Stock-analysis/blob/main/DQAnalysis.PNG)
 
+Given the results of the analysis as you can see below, it shows a sector with high volatility 
+
+![Stocks_17_18](https://github.com/franciscomg90/Stock-analysis/blob/main/STOCKS%20PERFORMANCE%2017-18.png)
+ 
 Statements
