@@ -13,14 +13,15 @@ In first instance I processed the information of a single stock (DQ) in order to
 
 ![DQ Analysis](https://github.com/franciscomg90/Stock-analysis/blob/main/DQAnalysis.PNG)
 
-Given the results of the analysis as you can see below, it shows a sector with high volatility in the individual stocks which could make great gainings but also big loses. I can imagine that it's expected this kind of stocks be the future but as it is a new sector and need to gain creditiliby, the liquidity at that moment should be quite low, and this makes this kind of movements. 
+Given the results of the analysis as you can see below, it shows a sector with high volatility in the individual stocks which could make great gainings but also big loses. I can imagine that it's expected this kind of stocks be the future but as it is a new sector and need to gain creditiliby, the liquidity at that moment should be quite low, and this makes this kind of movements, maybe if Steve make this analysis between several indexes instead of individual stocks he could have a better overview of the market and sectors relative value.
 
 ![Stocks_17_18](https://github.com/franciscomg90/Stock-analysis/blob/main/STOCKS%20PERFORMANCE%2017-18.png)
 
-Refactoring by definition "is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior", I made this with the inicial code for the allstock analyisis to make a more efficient code using the calculation in arrays to improve time and memory 
+About the coding. Refactoring by definition "is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior", I made this with the inicial code for the allstock analyisis to make a more efficient code using the calculation in arrays to improve time and memory. The results are quite good as it shows the timer.
+![TIMER1](https://github.com/franciscomg90/Stock-analysis/blob/main/2017%20time.png) ![TIMER2](https://github.com/franciscomg90/Stock-analysis/blob/main/2018%20time.png)
 
-![REFACTORED1](https://github.com/franciscomg90/Stock-analysis/blob/main/REFACTORED%201.PNG)
-![REFACTORED2](https://github.com/franciscomg90/Stock-analysis/blob/main/REFACTORED%202.PNG)
+![REFACTORED1](https://github.com/franciscomg90/Stock-analysis/blob/main/REFACTORED%201.1.PNG)
+![REFACTORED2](https://github.com/franciscomg90/Stock-analysis/blob/main/REFACTORED%202.2.PNG)
 
 But if you check the hole perfomance of the QGREEN INDEX you can see that in total the the return/loss are lowers but also they have less volatility
  
