@@ -20,3 +20,6 @@ Given the results of the analysis as you can see below, it shows a sector with h
 ![Stocks_17_18](https://github.com/franciscomg90/Stock-analysis/blob/main/STOCKS%20PERFORMANCE%2017-18.png)
  
 **Statements**
+
+**Bibliographic citation**
+https://dictionary.cambridge.org/dictionary/english/refactoring
