@@ -6,5 +6,6 @@ In order to help Steve with his research we have used a database with 12 differe
 
 Results of the stock performance 2017-18
 In first instance I procesed de information of a single stock (DQ) in order to stablish a good coding framework to work with, this allowed me to see if the final calculations were showing what I expecting of them, then building indexes and refactoring the code I applied the same calculations for the hole stocks sample in a more efficcient and faster way than using the the innicial code for each stock.
+![alt text](https://github.com/franciscomg90/Stock-analysis/commit/31507d3d0afaf69f2a42c96517f04e05177f5ef3)
 
 Statements
