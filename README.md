@@ -17,7 +17,7 @@ Given the results of the analysis as you can see below, it shows a sector with h
 
 ![Stocks_17_18](https://github.com/franciscomg90/Stock-analysis/blob/main/STOCKS%20PERFORMANCE%2017-18.png)
 
-About the coding. Refactoring by definition "is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior", I made this with the inicial code for the allstock analyisis to make a more efficient code using new indexes and calculation in arrays to improve time and memory. The results are quite good as it shows the timer.
+About coding. Refactoring by definition "is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior", I made this with the inicial code for the allstock analysis to make a more efficient code using new indexes and calculation in arrays to improve time and memory. The results are quite good as it shows the timer.
 
 BEFORE REFACTORING
 
@@ -30,7 +30,7 @@ AFTER REFACTORING
 ![REFACTORED1](https://github.com/franciscomg90/Stock-analysis/blob/main/REFACTORED%201.1.PNG)
 ![REFACTORED2](https://github.com/franciscomg90/Stock-analysis/blob/main/REFACTORED%202.2.PNG)
 
-But if you check the hole perfomance of the QGREEN INDEX you can see that in total the the return/loss are lowers but also they have less volatility
+
  
 **Statements**
 Given the previous analysis I would recommend Steve and his parents to take in count that deversifying a fortfolio is a better way to achieve positive results in investments. Even if the returns in the green stock sector seem to be great, it's a sector with extremely high volatility and I would say also it has low liquidity and that's why the movements in prices are quite big. I would recomend to make an analysis of relative value to compare this  
