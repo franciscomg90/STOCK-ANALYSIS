@@ -1,5 +1,5 @@
 # Stock-analysis
-Green Energy Stock Analyisis for Steve and his family.
+**Green Energy Stock Analyisis for Steve and his family.**
 
 **Overview***
 
@@ -8,6 +8,7 @@ In order to help Steve with his research we have used a database with 12 differe
 ![Buttons](https://github.com/franciscomg90/Stock-analysis/blob/main/BUTTONS.PNG)
 
 **Results of the stock performance 2017-18**
+
 In first instance I processed the information of a single stock (DQ) in order to establish a good coding framework to work with, this allowed me to see if the final calculations were showing what I expecting of them, then building indexes and refactoring the code I applied the same calculations for the hole stocks sample in a more efficient and faster way than using the the initial code for each stock.
 
 ![DQ Analysis](https://github.com/franciscomg90/Stock-analysis/blob/main/DQAnalysis.PNG)
