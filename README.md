@@ -11,9 +11,9 @@ In order to help Steve with his research we have used a database with 12 differe
 
 In first instance I processed the information of a single stock (DQ) in order to establish a good coding framework to work with, this allowed me to see if the final calculations were showing what I expecting of them, then building indexes and refactoring the code I applied the same calculations for the hole stocks sample in a more efficient and faster way than using the the initial code for each stock.
 
-Refactoring by definition "is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior" 
-
 ![DQ Analysis](https://github.com/franciscomg90/Stock-analysis/blob/main/DQAnalysis.PNG)
+
+Refactoring by definition "is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior" 
 
 Given the results of the analysis as you can see below, it shows a sector with high volatility 
 
