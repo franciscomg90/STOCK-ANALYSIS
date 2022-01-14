@@ -35,11 +35,11 @@ AFTER REFACTORING
 **Statements**
 Given the previous analysis I would recommend Steve and his parents to take in count that deversifying a fortfolio is a better way to achieve positive results in investments. Even if the returns in the green stock sector seem to be great, it's a sector with extremely high volatility and I would say also it has low liquidity and that's why the movements in prices are quite big. I would recomend to make an analysis of relative value to compare this sector to others to know the fair price and maybe invest in an ETF that replicate the index insted of individual stocks and then preponderate to beat the benchmark index as several funds do.
 
-Adventages of refactoring
-Refactoring has many advantages as I mentioned before, one is time as it is evident on the results I presented, two is less waste of memory while you're computer is executing other programs, but it has also other benefits such as having a compacted, clean and readable code for you and other users. This makes it easier when you need to review, change and  fix some variables or characteristics of the analysis. 
+Advantages of refactoring
+Refactoring has many advantages as I mentioned before, one is time as it is evident on the results I presented, two is less waste of memory while you're computer is executing other programs, but it has also other benefits such as having a compacted, clean and readable code for you and other users. This makes it easier when you need to review, change and  fix some variables or characteristics of the analysis.
 
 Original code vs refactored code
-As you see in the results the new refactored code seems to be much more cleaner than the original and if you see a bit deeper you can understand that the original code used to calculate each conditional for each stock insted of using the previous and retake it from a step forward and make the performance calculation for each stock. Some times less is more, faster, cleaner and more efficient.
+As you see in the results the new refactored code seems to be much more cleaner than the original and if you see a bit deeper you can understand that the original code used to calculate each conditional for each stock instead of using the previous calculations and retake the code from a step forward and make other needed as the performance calculation for each stock. Sometimes "less is more". Faster, cleaner and more efficient.
 
 **Bibliographic citation**
 https://dictionary.cambridge.org/dictionary/english/refactoring
