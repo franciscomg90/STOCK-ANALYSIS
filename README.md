@@ -1,4 +1,4 @@
-# Stock-analysis
+# STOCK-ANALYSIS
 **Green Energy Stock Analyisis for Steve and his family.**
 
 **Overview**
